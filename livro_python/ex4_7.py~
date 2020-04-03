@@ -1,0 +1,3 @@
+"""Programa que faz cálculos númericos"""
+p = int(input('Informe o primeiro número: '))
+s = int(input('Informe o segundo número: '))

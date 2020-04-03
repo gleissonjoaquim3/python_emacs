@@ -1,0 +1,2 @@
+n = int(input('Tabuada de : '))
+x = 1
