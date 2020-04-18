@@ -1,10 +1,7 @@
 # Entrada de dados
-
+from datetime import date
+hora = date.today
+lista = ['Teaste','tomate']
 x = input('Digite um número: ')
-print(x)
-
-# Outro exemplo
-nome = input('Digite seu nome: ').capitalize()
-print(f'Você digitou {nome}')
-print(f'Olá, {nome}')
-h
+lista.append(32,43,43,43)
+print(lista)
